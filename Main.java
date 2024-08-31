@@ -1,8 +1,8 @@
 class Main {
 
     public static void main(String [] args) {
-        String sec = "Section: #3";
+        String sub= "ITE 300";
 
-        System.out.println(sec);
+        System.out.println(sub);
     }
 }
